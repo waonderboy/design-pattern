@@ -1,3 +1,5 @@
+package singleton;
+
 import singleton.Settings;
 
 public class Main {
