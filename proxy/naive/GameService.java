@@ -5,5 +5,4 @@ public class GameService {
         System.out.println("Game Start!");
         Thread.sleep(1000L);
     }
-
 }

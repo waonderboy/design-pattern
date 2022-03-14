@@ -2,7 +2,6 @@ package proxy.advanced;
 
 public class GameServiceProxy implements GameService{
 
-    //데코레이터 처럼
     private GameService gameService;
 
 //    public GameServiceProxy(GameService gameService) {
